@@ -1,6 +1,6 @@
 ### boas vindas ao seu perfil ####
 
-OI kawan bem vindo o ao seu perfil
+oi kawan vc esta edudando alura e liguagem javacript
 
 vc esta edudando a alura
 
